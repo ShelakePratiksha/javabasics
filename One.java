@@ -2,6 +2,6 @@ class One{
 
 public static void main(String[] ar){
 
-System.out.println("testing....main method call");
+System.out.println("My First Code In Java....");
 }
 }
